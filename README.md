@@ -1,4 +1,4 @@
-<img src="https://github.com/xNoJustice/react-slider-app/blob/ba985acf9506c26c1921d3a420da0edf43e475ed/slider-app.gif" alt="" />
+<img src="https://github.com/xNoJustice/react-slider-app/blob/9e8a2178078eae359fdbeef2370a755d830148ea/app.gif" alt="app.gif" />
 
 # Getting Started with Create React App
 
